@@ -1,4 +1,5 @@
 #!/bin/bash
+# Bash Script to adjust SLNF, SRGF, and SLPF variables in DSSAT SOL file.
 original_soil_file="OK.SOL"
 slnf="0.2"
 slpf="0.35"
